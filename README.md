@@ -3,7 +3,7 @@ List of phd positions or phd vacancies that might be useful for you.
 
 We categorize them by country.
 
-## [Austria]()
+## [Austria](https://github.com/ekotwidodo/awesome-phd-positions/blob/main/austria.md)
 
 Austria, formally the Republic of Austria, is a landlocked country in Central Europe, lying in the Eastern Alps. It is a federation of nine states, one of which is the capital, Vienna, the most populous city and state.
 
