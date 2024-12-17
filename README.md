@@ -9,7 +9,7 @@ We categorize them by country.
 
 ## [Finland](https://github.com/ekotwidodo/awesome-phd-positions/blob/main/finland.md)
 
-## [Germany]()
+## [Germany](https://github.com/ekotwidodo/awesome-phd-positions/blob/main/germany.md)
 
 ## [Norway](https://github.com/ekotwidodo/awesome-phd-positions/blob/main/norway.md)
 
