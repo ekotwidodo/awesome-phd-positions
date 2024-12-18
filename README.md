@@ -11,9 +11,11 @@ We categorize them by country.
 
 <ul>
   <li><a href="#austria">Austria</a></li>
+  <li><a href="#belgium">Belgium</a></li>
   <li><a href="#denmark">Denmark</a></li>
   <li><a href="#finland">Finland</a></li>
   <li><a href="#germany">Germany</a></li>
+  <li><a href="#luxembourg">Luxembourg</a></li>
   <li><a href="#norway">Norway</a></li>
   <li><a href="#sweden">Sweden</a></li>
   <li><a href="#switzerland">Switzerland</a></li>
@@ -33,6 +35,19 @@ PhD Positions in Austria
 - [University of Klagenfurt](https://jobs.aau.at/en/joblist/)
 - [TU Graz](https://jobs.tugraz.at/en/jobs)
 - [University of Innsbruck](https://lfuonline.uibk.ac.at/public/karriereportal.home?)
+- etc.
+
+---
+
+## Belgium
+
+PhD Positions in Belgium
+
+- [Ghent University](https://www.ugent.be/en/work/scientific)
+- [KU Leuven](https://www.kuleuven.be/personeel/jobsite/jobs/phd?hl=en&lang=en)
+- [Hasselt University](https://www.uhasselt.be/en/about-hasselt-university/working-at-hasselt-university/vacancies)
+- [University of Antwerp](https://www.uantwerpen.be/en/jobs/vacancies/academic-staff/)
+- [Vrije Universiteit Brussel](https://jobs.vub.be/go/EN_PHD/3775801/)
 - etc.
 
 ---
@@ -75,6 +90,15 @@ PhD Positions in Germany
 - [TIB – Leibniz Information Centre for Science and Technology and University Library provides science, research, industry and business with literature and information](https://www.tib.eu/en/tib/careers-and-apprenticeships/vacancies)
 - [Karlsruhe Institute of Technology](https://www.pse.kit.edu/english/karriere/121.php)
 - [FIZ Karlsruhe](https://www.fiz-karlsruhe.de/en/ueber-uns/unsere-stellenangebote)
+- etc.
+
+---
+
+## Luxembourg
+
+PhD Position in Luxembourg
+
+- [University of Luxembourg](https://recruitment.uni.lu/en/index.html?Resultsperpage=50)
 - etc.
 
 ---
@@ -134,14 +158,6 @@ PhD Positions in Switzerland
 Contributions are welcome! If you know of any valuable PhD Positions resources, feel free to submit a pull request or open an issue.
 
 Please follow the [contribution guidelines](CONTRIBUTING.md) to maintain the quality and consistency of Awesome PhD Positions.
-
----
-
-## License
-
-[![CC0](https://img.shields.io/badge/license-CC0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-This repository is licensed under CC0 1.0 Universal, which means you can freely use and contribute to this project.
 
 ---
 
