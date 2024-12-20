@@ -14,12 +14,21 @@ We categorize them by country.
   <li><a href="#belgium">Belgium</a></li>
   <li><a href="#denmark">Denmark</a></li>
   <li><a href="#finland">Finland</a></li>
+  <li><a href="#france">France</a></li>
   <li><a href="#germany">Germany</a></li>
   <li><a href="#luxembourg">Luxembourg</a></li>
   <li><a href="#norway">Norway</a></li>
   <li><a href="#sweden">Sweden</a></li>
   <li><a href="#switzerland">Switzerland</a></li>
 </ul>
+
+We also find some interesting web portals.
+
+- [EURAXESS](https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=offer_type%3Ajob_offer&f%5B1%5D=positions%3Aphp_positions)
+- [Academic Transfer - Netherlands](https://www.academictransfer.com/en/jobs/?vacancy_type=scientific&q=&function_types=1&order=)
+- [EURES - EURopean Employment Services](https://europa.eu/eures/portal/jv-se/search?page=1&resultsPerPage=10&orderBy=BEST_MATCH&keywordsEverywhere=phd&requiredLanguages=en(C2)&lang=en)
+- [EuroSys](http://jobs.eurosys.org/#doctoral)
+- etc.
 
 ---
 
@@ -75,6 +84,16 @@ PhD Positions in Finland
 - [Tampere University](https://www.tuni.fi/en/about-us/working-at-tampere-universities/open-positions-at-tampere-university)
 - [University of Turku](https://www.utu.fi/en/university/come-work-with-us/open-vacancies)
 - [University of Oulu](https://oulunyliopisto.varbi.com/en/)
+- etc.
+
+---
+
+## France
+
+PhD Positions in France
+
+- [INRIA - National Institute for Research in Digital Science and Technology](https://jobs.inria.fr/public/classic/en/offres?filtre=doctorants)
+- [EURECOM - Graduate School and Research Center in Digital Science](https://www.eurecom.fr/en/eurecom/job-opportunities/job-opportunities)
 - etc.
 
 ---
@@ -170,7 +189,5 @@ This repository is licensed under CC0 1.0 Universal, which means you can freely 
 ---
 
 Happy New Journey as PhD Student! 😊
-
----
 
 The Project structure is inspired by the work of [GraphGeeks](https://github.com/graphgeeks-lab/awesome-graph-universe) - which is currently active.
