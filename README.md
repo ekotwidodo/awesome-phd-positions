@@ -1,6 +1,6 @@
 # Awesome PhD Positions
 
-Welcome to **Awesome PhD Positions**, a curated list of resources for PhD Positions in the Universities around the World. Our goal is to provide a comprehensive resource that helps everyone in pursuing their doctoral degree.
+Welcome to **Awesome PhD Positions**, a curated list of resources for PhD Positions in universities worldwide. Our goal is to provide a comprehensive resource that helps everyone in pursuing their doctoral degree.
 List of phd positions or phd vacancies that might be useful for you.
 
 Feel free to contribute by submitting pull requests! 🚀
@@ -28,6 +28,11 @@ We also find some interesting web portals.
 - [Academic Transfer - Netherlands](https://www.academictransfer.com/en/jobs/?vacancy_type=scientific&q=&function_types=1&order=)
 - [EURES - EURopean Employment Services](https://europa.eu/eures/portal/jv-se/search?page=1&resultsPerPage=10&orderBy=BEST_MATCH&keywordsEverywhere=phd&requiredLanguages=en(C2)&lang=en)
 - [EuroSys](http://jobs.eurosys.org/#doctoral)
+- etc.
+
+Special Scholarship for PhD (and Master) degree.
+- [KAUST - King Abdullah University of Science and Technology](https://www.kaust.edu.sa/en/study/phd-program)
+- [UST - University of Science and Technology](https://www.ust.ac.kr/prog/entschGuideline/admission_eng/sub02_01_01/list.do)
 - etc.
 
 ---
