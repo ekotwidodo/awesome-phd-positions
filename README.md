@@ -13,6 +13,7 @@ We categorize them by country.
   <li><a href="#austria">Austria</a></li>
   <li><a href="#belgium">Belgium</a></li>
   <li><a href="#denmark">Denmark</a></li>
+  <li><a href="#estonia">$Estonia</a></li>
   <li><a href="#finland">Finland</a></li>
   <li><a href="#france">France</a></li>
   <li><a href="#germany">Germany</a></li>
@@ -28,6 +29,7 @@ We also find some interesting web portals.
 - [Academic Transfer - Netherlands](https://www.academictransfer.com/en/jobs/?vacancy_type=scientific&q=&function_types=1&order=)
 - [EURES - EURopean Employment Services](https://europa.eu/eures/portal/jv-se/search?page=1&resultsPerPage=10&orderBy=BEST_MATCH&keywordsEverywhere=phd&requiredLanguages=en(C2)&lang=en)
 - [EuroSys](http://jobs.eurosys.org/#doctoral)
+- [jobs.ac.uk](https://www.jobs.ac.uk/search/?activeFacet=locationFacet&sortOrder=1&pageSize=25&startIndex=1&jobTypeFacet%5B0%5D=phds&locationFacet%5B0%5D=europe)
 - etc.
 
 Special Scholarship for PhD (and Master) degree.
@@ -80,6 +82,16 @@ PhD Positions in Denmark
 
 ---
 
+## Estonia
+
+PhD Positions in Estonia
+
+- [Tallinn University of Technology](https://taltech.ee/en/phd-admission)
+- [University of Tartu](https://ut.ee/en/content/phd-open-calls)
+- etc.
+
+---
+
 ## Finland
 
 PhD Positions in Finland
@@ -114,6 +126,8 @@ PhD Positions in Germany
 - [TIB – Leibniz Information Centre for Science and Technology and University Library provides science, research, industry and business with literature and information](https://www.tib.eu/en/tib/careers-and-apprenticeships/vacancies)
 - [Karlsruhe Institute of Technology](https://www.pse.kit.edu/english/karriere/121.php)
 - [FIZ Karlsruhe](https://www.fiz-karlsruhe.de/en/ueber-uns/unsere-stellenangebote)
+- [TU Dresden](https://www.verw.tu-dresden.de/StellAus/?lang=en)
+- [Helmholtz Zentrum München](https://www.helmholtz-munich.de/en/career/jobs)
 - etc.
 
 ---
