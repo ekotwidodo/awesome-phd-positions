@@ -13,23 +13,23 @@ We categorize them by country.
   <li><a href="#austria">Austria</a></li>
   <li><a href="#belgium">Belgium</a></li>
   <li><a href="#denmark">Denmark</a></li>
-  <li><a href="#estonia">$Estonia</a></li>
+  <li><a href="#estonia">Estonia</a></li>
   <li><a href="#finland">Finland</a></li>
   <li><a href="#france">France</a></li>
   <li><a href="#germany">Germany</a></li>
   <li><a href="#luxembourg">Luxembourg</a></li>
+  <li><a href="#netherlands">Netherlands</a></li>
   <li><a href="#norway">Norway</a></li>
   <li><a href="#sweden">Sweden</a></li>
   <li><a href="#switzerland">Switzerland</a></li>
+  <li><a href="#unitedkingdom">United Kingdom</a></li>
 </ul>
 
 We also find some interesting web portals.
 
 - [EURAXESS](https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=offer_type%3Ajob_offer&f%5B1%5D=positions%3Aphp_positions)
-- [Academic Transfer - Netherlands](https://www.academictransfer.com/en/jobs/?vacancy_type=scientific&q=&function_types=1&order=)
 - [EURES - EURopean Employment Services](https://europa.eu/eures/portal/jv-se/search?page=1&resultsPerPage=10&orderBy=BEST_MATCH&keywordsEverywhere=phd&requiredLanguages=en(C2)&lang=en)
 - [EuroSys](http://jobs.eurosys.org/#doctoral)
-- [jobs.ac.uk](https://www.jobs.ac.uk/search/?activeFacet=locationFacet&sortOrder=1&pageSize=25&startIndex=1&jobTypeFacet%5B0%5D=phds&locationFacet%5B0%5D=europe)
 - etc.
 
 Special Scholarship for PhD (and Master) degree.
@@ -141,6 +141,12 @@ PhD Position in Luxembourg
 
 ---
 
+## Netherlands
+
+PhD Position in Netherlands you can find in [Academic Transfer Portal](https://www.academictransfer.com/en/jobs/?vacancy_type=scientific&q=&function_types=1&order=)
+
+---
+
 ## Norway
 
 PhD Positions in Norway
@@ -188,6 +194,12 @@ PhD Positions in Switzerland
 - [University of Bern](https://www.karriere.unibe.ch/jobs/job_portal/index_eng.html)
 - [University of Zurich](https://www.uzh.ch/en/explore/work/jobs.html)
 - etc.
+
+---
+
+## United Kingdom
+
+PhD Positions in the United Kingdom you can find in [jobs.ac.uk Portal](https://www.jobs.ac.uk/search/?activeFacet=locationFacet&sortOrder=1&pageSize=25&startIndex=1&jobTypeFacet%5B0%5D=phds&locationFacet%5B0%5D=europe)
 
 ---
 
