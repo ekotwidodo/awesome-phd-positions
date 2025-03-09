@@ -30,6 +30,9 @@ We also find some interesting web portals.
 - [EURAXESS](https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=offer_type%3Ajob_offer&f%5B1%5D=positions%3Aphp_positions)
 - [EURES - EURopean Employment Services](https://europa.eu/eures/portal/jv-se/search?page=1&resultsPerPage=10&orderBy=BEST_MATCH&keywordsEverywhere=phd&requiredLanguages=en(C2)&lang=en)
 - [EuroSys](http://jobs.eurosys.org/#doctoral)
+- [INOMICS](https://inomics.com/search?program=phd-program)
+- [EGU - European Geosciences Union](https://www.egu.eu/jobs/?limit=10&sortby=-created_at&sortby=-created_at&page=2&keywords=&employment_level=30)
+- [Nature Career](https://www.nature.com/naturecareers/jobs/phd-position/)
 - etc.
 
 Special Scholarship for PhD (and Master) degree.
@@ -64,6 +67,7 @@ PhD Positions in Belgium
 - [Hasselt University](https://www.uhasselt.be/en/about-hasselt-university/working-at-hasselt-university/vacancies)
 - [University of Antwerp](https://www.uantwerpen.be/en/jobs/vacancies/academic-staff/)
 - [Vrije Universiteit Brussel](https://jobs.vub.be/go/EN_PHD/3775801/)
+- [University of Liège](https://www.uliege.be/cms/c_9131376/en/travailler-a-l-uliege-postes-scientifiques)
 - etc.
 
 ---
@@ -128,6 +132,12 @@ PhD Positions in Germany
 - [FIZ Karlsruhe](https://www.fiz-karlsruhe.de/en/ueber-uns/unsere-stellenangebote)
 - [TU Dresden](https://www.verw.tu-dresden.de/StellAus/?lang=en)
 - [Helmholtz Zentrum München](https://www.helmholtz-munich.de/en/career/jobs)
+- [University of Stuttgart](https://careers.uni-stuttgart.de/search/?createNewAlert=false&q=&optionsFacetsDD_customfield1=Doctorate&optionsFacetsDD_customfield2=)
+- [TU Dortmund](https://service.tu-dortmund.de/en/wissenschaftlich-beschaftigte)
+- [University of Bonn](https://www.uni-bonn.de/en/university/working-at-the-university/job-opportunities/vacancies-for-researchers)
+- [University of Hamburg](https://www.uni-hamburg.de/en/stellenangebote.html#vb&stellentyp-radio=d&fuehrungskraft-radio=)
+- [University of Leipzig](https://www.uni-leipzig.de/en/university/working-at-leipzig-university/job-opportunities)
+- [University of Mannheim](https://www.uni-mannheim.de/en/about/working-at-the-university-of-mannheim/employment-opportunities/)
 - etc.
 
 ---
@@ -167,11 +177,11 @@ PhD Positions in Sweden
 - [KTH Royal Institute of Technology](https://www.kth.se/lediga-jobb?l=en)
 - [Uppsala universitet](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies?varbiCategory=PhD+positions)
 - [Chalmers University of Technology](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/)
-- [Stockholm University](https://www.su.se/english/about-the-university/work-at-su/available-jobs/phd-student-positions-1.507588)
+- [Stockholm University]([https://www.su.se/english/about-the-university/work-at-su/available-jobs/phd-student-positions-1.507588](https://su.varbi.com/en/what:findjob/?showresult=1&categories=1&checklist=1&orglevel=1&ref=1&nologin=1&nocity=1&nocounty=1&nocountry=1&nolocalefield=1&nolocalegroup=1&hideColumns=town&norefsearch=1&searchtext=&searchtitle=&category=1654&subcompany=undefined))
 - [University of Gothenburg](https://www.gu.se/en/work-at-the-university-of-gothenburg/vacancies)
 - [Linköping University](https://liu.se/en/work-at-liu/vacancies)
 - [Malmö University](https://mau.se/en/about-us/job-offers/current-vacancies/)
-- [Umeå University](https://www.umu.se/en/work-with-us/open-positions/?pk=3)
+- [Umeå University](https://www.umu.se/en/work-with-us/open-positions/?pk=4)
 - [Luleå University of Technology](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies)
 - [Örebro University](https://www.oru.se/english/career/available-positions/)
 - [Jönköping University](https://ju.se/en/about-us/work-at-jonkoping-university/job-vacancies.html)
