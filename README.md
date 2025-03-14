@@ -177,11 +177,11 @@ PhD Positions in Sweden
 - [KTH Royal Institute of Technology](https://www.kth.se/lediga-jobb?l=en)
 - [Uppsala universitet](https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies?varbiCategory=PhD+positions)
 - [Chalmers University of Technology](https://www.chalmers.se/en/about-chalmers/work-with-us/vacancies/)
-- [Stockholm University]([https://www.su.se/english/about-the-university/work-at-su/available-jobs/phd-student-positions-1.507588](https://su.varbi.com/en/what:findjob/?showresult=1&categories=1&checklist=1&orglevel=1&ref=1&nologin=1&nocity=1&nocounty=1&nocountry=1&nolocalefield=1&nolocalegroup=1&hideColumns=town&norefsearch=1&searchtext=&searchtitle=&category=1654&subcompany=undefined))
+- [Stockholm University](https://su.varbi.com/en/what:findjob/?showresult=1&categories=1&checklist=1&orglevel=1&ref=1&nologin=1&nocity=1&nocounty=1&nocountry=1&nolocalefield=1&nolocalegroup=1&hideColumns=town&norefsearch=1&searchtext=&searchtitle=&category=1654&subcompany=undefined)
 - [University of Gothenburg](https://www.gu.se/en/work-at-the-university-of-gothenburg/vacancies)
 - [Linköping University](https://liu.se/en/work-at-liu/vacancies)
 - [Malmö University](https://mau.se/en/about-us/job-offers/current-vacancies/)
-- [Umeå University](https://www.umu.se/en/work-with-us/open-positions/?pk=4)
+- [Umeå University](https://www.umu.se/en/work-with-us/open-positions/?pk=5)
 - [Luleå University of Technology](https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies)
 - [Örebro University](https://www.oru.se/english/career/available-positions/)
 - [Jönköping University](https://ju.se/en/about-us/work-at-jonkoping-university/job-vacancies.html)
@@ -203,6 +203,7 @@ PhD Positions in Switzerland
 - [ETH Zürich – Swiss Federal Institute of Technology](https://jobs.ethz.ch/site/index)
 - [University of Bern](https://www.karriere.unibe.ch/jobs/job_portal/index_eng.html)
 - [University of Zurich](https://www.uzh.ch/en/explore/work/jobs.html)
+- [Ecole polytechnique fédérale de Lausanne (EPFL)](https://careers.epfl.ch/go/PhD-Student/505174/)
 - etc.
 
 ---
