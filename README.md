@@ -138,6 +138,7 @@ PhD Positions in Germany
 - [University of Hamburg](https://www.uni-hamburg.de/en/stellenangebote.html#vb&stellentyp-radio=d&fuehrungskraft-radio=)
 - [University of Leipzig](https://www.uni-leipzig.de/en/university/working-at-leipzig-university/job-opportunities)
 - [University of Mannheim](https://www.uni-mannheim.de/en/about/working-at-the-university-of-mannheim/employment-opportunities/)
+- [Technical University of Munich](https://portal.mytum.de/jobs/wissenschaftler)
 - etc.
 
 ---
@@ -204,6 +205,9 @@ PhD Positions in Switzerland
 - [University of Bern](https://www.karriere.unibe.ch/jobs/job_portal/index_eng.html)
 - [University of Zurich](https://www.uzh.ch/en/explore/work/jobs.html)
 - [Ecole polytechnique fédérale de Lausanne (EPFL)](https://careers.epfl.ch/go/PhD-Student/505174/)
+- [Zurich University of Applied Sciences](https://www.zhaw.ch/en/jobs/vacant-positions)
+- [Empa - Swiss Federal Laboratories for Materials Science and Technology](https://apply.refline.ch/673276/search.html?form.buttons.query=1&segment=doctoralCandidate)
+- [University of St.Gallen](https://www.unisg.ch/en/university/working-at-hsg/jobs/)
 - etc.
 
 ---
