@@ -17,6 +17,7 @@ We categorize them by country.
   <li><a href="#finland">Finland</a></li>
   <li><a href="#france">France</a></li>
   <li><a href="#germany">Germany</a></li>
+  <li><a href="#ireland">Ireland</a></li>
   <li><a href="#luxembourg">Luxembourg</a></li>
   <li><a href="#netherlands">Netherlands</a></li>
   <li><a href="#norway">Norway</a></li>
@@ -142,6 +143,22 @@ PhD Positions in Germany
 - [University of Leipzig](https://www.uni-leipzig.de/en/university/working-at-leipzig-university/job-opportunities)
 - [University of Mannheim](https://www.uni-mannheim.de/en/about/working-at-the-university-of-mannheim/employment-opportunities/)
 - [Technical University of Munich](https://portal.mytum.de/jobs/wissenschaftler)
+- etc.
+
+---
+
+## Ireland
+
+PhD Position in Ireland
+
+- [Trinity College Dublin](https://www.tcd.ie/hr/vacancies/)
+- [University of Galway](https://www.universityofgalway.ie/about-us/jobs/)
+- [University College Dublin](https://www.ucd.ie/workatucd/jobs/)
+- [Dublin City University](https://www.dcu.ie/people/jobs)
+- [Technological University Dublin](https://www.tudublin.ie/explore/jobs/current-vacancies/)
+- [University College Cork](https://www.ucc.ie/en/hr/vacancies//)
+- [Maynooth University](https://www.maynoothuniversity.ie/human-resources/vacancies)
+- [University of Limerick](https://www.ul.ie/vacancies)
 - etc.
 
 ---
