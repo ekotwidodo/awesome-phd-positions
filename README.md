@@ -50,14 +50,16 @@ Special Scholarship for PhD (and Master) degree.
 
 PhD Positions in Austria
 
-- [University of Vienna](https://vds-sosci.univie.ac.at/admission/open-positions/)
+- [University of Vienna](https://doktorat.univie.ac.at/en/doctorateunivie/open-positions/)
 - [Vienna University of Economics and Business](https://www.wu.ac.at/en/careers/job-portal/jobs/pre-doc-level)
 - [TU Wien](https://jobs.tuwien.ac.at/Jobs?culture=en)
 - [Johannes Kepler University](https://karriere.jku.at/hcm/jobexchange/showJobOfferList.do)
 - [Institute of Science and Technology Austria](https://ista.ac.at/en/jobs/open-positions/)
 - [University of Klagenfurt](https://jobs.aau.at/en/joblist/)
 - [TU Graz](https://jobs.tugraz.at/en/jobs)
+- [University of Graz](https://jobs.uni-graz.at/en/jobs)
 - [University of Innsbruck](https://lfuonline.uibk.ac.at/public/karriereportal.home?)
+- [AIT Austrian Institute of Technology](https://jobs.ait.ac.at/Jobs?jobProfiles=PhD)
 - etc.
 
 ---
@@ -230,6 +232,7 @@ PhD Positions in Switzerland
 - [Zurich University of Applied Sciences](https://www.zhaw.ch/en/jobs/vacant-positions)
 - [Empa - Swiss Federal Laboratories for Materials Science and Technology](https://apply.refline.ch/673276/search.html?form.buttons.query=1&segment=doctoralCandidate)
 - [University of St.Gallen](https://www.unisg.ch/en/university/working-at-hsg/jobs/)
+- [Paul Scherrer Institute PSI](https://www.psi.ch/en)
 - etc.
 
 ---
