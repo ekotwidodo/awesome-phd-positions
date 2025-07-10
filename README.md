@@ -185,6 +185,7 @@ PhD Position in Italy
 PhD Position in Luxembourg
 
 - [University of Luxembourg](https://recruitment.uni.lu/en/index.html?Resultsperpage=50)
+- [Luxembourg Institute of Science & Technology - LIST](https://www.list.lu/en/jobs/phd-candidates/)
 - etc.
 
 ---
