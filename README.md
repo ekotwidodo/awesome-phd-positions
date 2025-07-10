@@ -18,6 +18,7 @@ We categorize them by country.
   <li><a href="#france">France</a></li>
   <li><a href="#germany">Germany</a></li>
   <li><a href="#ireland">Ireland</a></li>
+  <li><a href="#italy">Italy</a></li>
   <li><a href="#luxembourg">Luxembourg</a></li>
   <li><a href="#netherlands">Netherlands</a></li>
   <li><a href="#norway">Norway</a></li>
@@ -50,7 +51,7 @@ Special Scholarship for PhD (and Master) degree.
 
 PhD Positions in Austria
 
-- [University of Vienna](https://doktorat.univie.ac.at/en/doctorateunivie/open-positions/)
+- [University of Vienna](https://jobs.univie.ac.at/go/Praedoc/8877001/)
 - [Vienna University of Economics and Business](https://www.wu.ac.at/en/careers/job-portal/jobs/pre-doc-level)
 - [TU Wien](https://jobs.tuwien.ac.at/Jobs?culture=en)
 - [Johannes Kepler University](https://karriere.jku.at/hcm/jobexchange/showJobOfferList.do)
@@ -161,6 +162,20 @@ PhD Position in Ireland
 - [University College Cork](https://www.ucc.ie/en/hr/vacancies//)
 - [Maynooth University](https://www.maynoothuniversity.ie/human-resources/vacancies)
 - [University of Limerick](https://www.ul.ie/vacancies)
+- etc.
+
+---
+
+## Italy
+
+PhD Position in Italy
+
+- [Università di Bologna](https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/phd/applying-for-phd-programmes)
+- [Politecnico di Milano](https://www.polimi.it/en/phd/phd-programmes)
+- [University of Verona](https://www.univr.it/en/phds)
+- [Università di Pisa](https://dottorato.unipi.it/index.php/en/)
+- [Free University of Bozen-Bolzano](https://www.unibz.it/en/applicants/phd-programmes/)
+- [Università degli Studi di Palermo](https://www.unipa.it/mobilita/en/new-students/phd-programs/)
 - etc.
 
 ---
