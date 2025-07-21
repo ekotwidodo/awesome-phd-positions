@@ -75,6 +75,8 @@ PhD Positions in Belgium
 - [University of Antwerp](https://www.uantwerpen.be/en/jobs/vacancies/academic-staff/)
 - [Vrije Universiteit Brussel](https://jobs.vub.be/go/EN_PHD/3775801/)
 - [University of Liège](https://www.uliege.be/cms/c_9131376/en/travailler-a-l-uliege-postes-scientifiques)
+- [Université catholique de Louvain](https://jobs.uclouvain.be/Personnelscientifique/go/UCLouvain-Scientific-staff/3745401/)
+- [University of Mons](https://web.umons.ac.be/fr/travailler-a-lumons/)
 - etc.
 
 ---
