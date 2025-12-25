@@ -252,6 +252,7 @@ PhD Positions in Switzerland
 - [Empa - Swiss Federal Laboratories for Materials Science and Technology](https://apply.refline.ch/673276/search.html?form.buttons.query=1&segment=doctoralCandidate)
 - [University of St.Gallen](https://www.unisg.ch/en/university/working-at-hsg/jobs/)
 - [Paul Scherrer Institute PSI](https://www.psi.ch/en)
+- [University of Lausanne (UNIL)](https://career5.successfactors.eu/career?company=universitdP&career_ns=job_listing_summary&navBarLevel=JOB_SEARCH&_s.crb=PsccOVQ6GYtc2oETUbXzVmM3LAk%3d)
 - etc.
 
 ---
