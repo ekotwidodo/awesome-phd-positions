@@ -249,10 +249,16 @@ PhD Positions in Switzerland
 - [University of Zurich](https://www.uzh.ch/en/explore/work/jobs.html)
 - [Ecole polytechnique fédérale de Lausanne (EPFL)](https://careers.epfl.ch/go/PhD-Student/505174/)
 - [Zurich University of Applied Sciences](https://www.zhaw.ch/en/jobs/vacant-positions)
-- [Empa - Swiss Federal Laboratories for Materials Science and Technology](https://apply.refline.ch/673276/search.html?form.buttons.query=1&segment=doctoralCandidate)
 - [University of St.Gallen](https://www.unisg.ch/en/university/working-at-hsg/jobs/)
-- [Paul Scherrer Institute PSI](https://www.psi.ch/en)
 - [University of Lausanne (UNIL)](https://career5.successfactors.eu/career?company=universitdP&career_ns=job_listing_summary&navBarLevel=JOB_SEARCH&_s.crb=PsccOVQ6GYtc2oETUbXzVmM3LAk%3d)
+- [University of Freiburg](https://uni-freiburg.de/en/jobs/)
+- [University of Lugano](https://www.usi.ch/en/university/work-with-us/job-opportunities)
+- [University of Lucerne](https://www.unilu.ch/en/university/personnel/human-resources-department/vacancies/)
+- [University of Neuchâtel](https://www.unine.ch/emploi/)
+- [Empa - Swiss Federal Laboratories for Materials Science and Technology](https://apply.refline.ch/673276/search.html?form.buttons.query=1&segment=doctoralCandidate)
+- [Paul Scherrer Institute PSI](https://www.psi.ch/en)
+- [EAWAG](https://apply.refline.ch/673277/search.html?form.buttons.query=1&segment=doctoralCandidate)
+- [WSL](https://apply.refline.ch/273855/search.html?form.buttons.query=1&segment=doctoralCandidate)
 - etc.
 
 ---
