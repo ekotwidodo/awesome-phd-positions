@@ -138,7 +138,7 @@ PhD Positions in Germany
 - [Technische Universität Berlin](https://www.tu.berlin/en/working-at-tu-berlin/career/job-postings)
 - [GESIS – Leibniz Institute for the Social Sciences](https://gesis.jobs.personio.de/?language=en)
 - [TIB – Leibniz Information Centre for Science and Technology and University Library provides science, research, industry and business with literature and information](https://www.tib.eu/en/tib/careers-and-apprenticeships/vacancies)
-- [Karlsruhe Institute of Technology](https://www.pse.kit.edu/english/karriere/121.php)
+- [Karlsruhe Institute of Technology](https://www.kit.edu/career/jobs.php)
 - [FIZ Karlsruhe](https://www.fiz-karlsruhe.de/en/ueber-uns/unsere-stellenangebote)
 - [TU Dresden](https://www.verw.tu-dresden.de/StellAus/?lang=en)
 - [Helmholtz Zentrum München](https://www.helmholtz-munich.de/en/career/jobs)
@@ -187,8 +187,8 @@ PhD Position in Italy
 
 PhD Position in Luxembourg
 
-- [University of Luxembourg](https://recruitment.uni.lu/en/index.html?Resultsperpage=50)
-- [Luxembourg Institute of Science & Technology - LIST](https://www.list.lu/en/jobs/phd-candidates/)
+- [University of Luxembourg](https://www.uni.lu/en/about/work/explore-our-jobs/?Resultsperpage=50&fq_jobs-taxonomies-jobs-profile%5B%5D=doctoral-candidate%7CDoctoral+candidate%7CProfile&fq_jobs-taxonomies-jobs-contract-type%5B%5D=limited-contract%7CFixed-term+contract%7CContract+type&fq_jobs-taxonomies-jobs-work-time%5B%5D=full-time%7CFull+time%7CWork+time)
+- [Luxembourg Institute of Science & Technology - LIST](https://www.list.lu/career/job-offers)
 - etc.
 
 ---
@@ -203,7 +203,7 @@ PhD Position in Netherlands you can find in [Academic Transfer Portal](https://w
 
 PhD Positions in Norway
 
-- [University of Bergen](https://www.uib.no/en/about/84777/vacant-positions-uib)
+- [University of Bergen](https://www.jobbnorge.no/search/en?term=phd&OrderBy=Published&Period=All&employer=724#1)
 - [University of Oslo](https://www.uio.no/english/about/vacancies/academic/)
 - [Norwegian University of Science and Technology](https://www.ntnu.edu/vacancies)
 - [University of Stavanger](https://www.uis.no/en/about-uis/vacant-positions-at-uis)
