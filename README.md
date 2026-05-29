@@ -149,6 +149,7 @@ PhD Positions in Germany
 - [University of Leipzig](https://www.uni-leipzig.de/en/university/working-at-leipzig-university/job-opportunities)
 - [University of Mannheim](https://www.uni-mannheim.de/en/about/working-at-the-university-of-mannheim/employment-opportunities/)
 - [Technical University of Munich](https://portal.mytum.de/jobs/wissenschaftler)
+- [Hasso Plattner Institut (HPI)](https://jobs.plattnerfoundation.org/HPI/search/?createNewAlert=false&q=phd&optionsFacetsDD_department=&optionsFacetsDD_customfield1=&optionsFacetsDD_facility=&locale=en_US)
 - etc.
 
 ---
