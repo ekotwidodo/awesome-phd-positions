@@ -100,8 +100,9 @@ PhD Positions in Denmark
 
 PhD Positions in Estonia
 
-- [Tallinn University of Technology](https://taltech.ee/en/phd-admission)
+- [Tallinn University of Technology](https://taltech.teamdash.com/p/job/8EIiUz1i/available-phd-positions-at-taltech/en#)
 - [University of Tartu](https://ut.ee/en/content/phd-open-calls)
+- [Tallinn University](https://www.tlu.ee/en/jobs)
 - etc.
 
 ---
