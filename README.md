@@ -37,6 +37,7 @@ We also find some interesting web portals.
 - [EGU - European Geosciences Union](https://www.egu.eu/jobs/?limit=10&sortby=-created_at&sortby=-created_at&page=2&keywords=&employment_level=30)
 - [Nature Career](https://www.nature.com/naturecareers/jobs/phd-position/)
 - [Marie Skłodowska-Curie Actions](https://euraxess.ec.europa.eu/jobs/search?f%5B0%5D=job_is_eu_founded%3A546&f%5B1%5D=job_is_eu_founded%3A548&f%5B2%5D=job_is_eu_founded%3A4348&f%5B3%5D=job_is_eu_founded%3A4349&f%5B4%5D=job_is_eu_founded%3A6048&f%5B5%5D=job_research_profile%3A447&f%5B6%5D=positions%3Amaster_positions&f%5B7%5D=positions%3Aphp_positions)
+- [ELRA List](https://list.elra.info/mailman3/hyperkitty/)
 - etc.
 
 Special Scholarship for PhD (and Master) degree.
